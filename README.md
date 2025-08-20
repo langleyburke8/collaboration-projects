@@ -12,6 +12,6 @@ My partner and I built a predictive model to assess the likelihood of Type 2 Dia
 
 --
 
-### Spotify Recommendation System - Final Capstone Project 
+### Spotify Recommendation System [https://github.com/jmetz1313/spotify-project] - Final Capstone Project 
 
-This final capstone project builds a recommendation system using Spotify playlist data and audio features like BPM, energy, popularity and genre. To go beyond traditional filtering, we used FastText (by Meta) to embed song lyrics and capture the semantic meaning behind them. This allows the system to recommend songs that aren’t just musically similar but also lyrically relevant - for example, suggesting another emotionally intense breakup song if that’s what the user likes. The model blends these text based embeddings with numerical features to deliver more personalized, context aware music recommendations.
+Built a recommendation system using Spotify playlist data and audio features like BPM, energy, popularity, and genre. To go beyond traditional filtering, I used FastText (by Meta) to embed song lyrics and capture their semantic meaning. This allowed the system to recommend songs that weren’t just musically similar, but also lyrically relevant - for example, suggesting another emotionally intense breakup song if that’s what the user likes. The model blends these text-based embeddings with numerical features to deliver personalized, context-aware music recommendations.
