@@ -1,10 +1,6 @@
 # collaboration-projects
-A collection of repositories and projects I’ve contributed to, with context and links to my work. 
-Highlights include:
+A collection of repositories and projects I’ve contributed to, including AI for Early Detection of Diabetes, a symposium project applying machine learning to healthcare insights, and the Spotify Recommendation System, my final capstone project improving song recommendations using data-driven modeling. Each project includes context and links to the work, highlighting both technical skills and real-world applications.
 
-- AI for Early Detection of Diabetes – a symposium project focused on applying machine learning for healthcare insights.
-- Spotify Recommendation System – my final capstone project, improving song recommendations using data-driven modeling.
-  
 --
 
 ### AI in Early Diabetes Detection [https://github.com/gina-occhipinti/analytics-symposium-diabetes-prediction] - Symposium and Conference Project
